@@ -1,4 +1,4 @@
-# Welcome to my Github🙌
+# Welcome to my Github🙌 https://github.com/gjbae1212/hit-counter
 * 🎈I'm Soyeon, interested in Data Analysis
 * 🌱Just a Beginner
 

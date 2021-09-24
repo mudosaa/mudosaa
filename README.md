@@ -11,3 +11,7 @@
 </br>
 <a href="mailto:syyang@sookmyung.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://velog.io/@xoyeon" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+
+
+[![Soyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=xoyeon&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoyeon&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

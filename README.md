@@ -14,4 +14,4 @@
 
 
 ![Soyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=xoyeon&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoyeon&langs_count=5&theme=buefy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoyeon&theme=buefy&layout=compact)

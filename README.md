@@ -6,6 +6,8 @@
 
 👋 I'm Soyeon, an enthusiastic learner   
 🌱 Just a beginner   
+🦁 Completed the 3rd Likelion K-Digital Training AI School Course
+
 ⭐ Currently learning
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> and 
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>

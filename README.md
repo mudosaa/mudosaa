@@ -14,7 +14,7 @@
 
 </br>
 
-🗺 Majored in International Studies and minored in International Development Cooperation at JBNU   
+🗺 Majored in International Studies at JBNU   
 ❄ Studying for a MS in Big Data Analysis at SMWU
 
 

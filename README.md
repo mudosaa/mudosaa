@@ -4,7 +4,7 @@
 <a href="https://velog.io/@xoyeon" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </br>
 
-<p align="center"><B>I'm Soyeon</B><p>
+<h3><p align="center"><B>SOYEON</B><p></h3>
 
 - Completed the 3rd Likelion K-Digital Training AI School Course   
 - Majored in International Studies at JBNU   

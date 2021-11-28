@@ -6,10 +6,6 @@
 
 <h3><p align="center"><B>SOYEON</B><p></h3>
 
-- Completed the 3rd Likelion K-Digital Training AI School Course   
-- Majored in International Studies at JBNU   
-- Studying for a MS in Big Data Analysis at SMWU
-
 
 <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a></p> 

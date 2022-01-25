@@ -2,6 +2,7 @@
 
 <a href="mailto:syyang@sookmyung.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://velog.io/@xoyeon" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://www.notion.so" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/></a>
 </br>
 
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mudosaa)](https://solved.ac/mudosaa) -->

@@ -16,7 +16,7 @@
 
 <B> 💫 성실한 사람만 살아남는 저장소</B>
   - 백준 [💾](https://github.com/xoyeon/BOJ)
-  - 오늘코드 [[유튜브]](https://www.youtube.com/c/todaycode)
+  - 오늘코드 [💾](https://github.com/xoyeon/todaycode)
     
  ---
    

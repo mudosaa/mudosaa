@@ -9,14 +9,6 @@
 
   ---
   
-<B> 💫 2022년 상반기에 해치울 저장소</B>
-  - 혼공머신 [💾](https://github.com/xoyeon/hongong-mldl) [[유튜브]](https://www.youtube.com/playlist?list=PLJN246lAkhQjoU0C4v8FgtbjOIXxSs_4Q)
-  - 캐글스터디 [💾](https://github.com/xoyeon/kaggle-study)
-  - CS224N [[ENG]](https://github.com/stanfordnlp/cs224n-winter17-notes) [[KOR]](https://github.com/songys/CS224N_17_KOR_SUB)
-
-<B> 💫 성실한 사람만 살아남는 저장소</B>
-  - 백준 [💾](https://github.com/xoyeon/BOJ)
-  - 오늘코드 [💾](https://github.com/xoyeon/todaycode)
     
  ---
    

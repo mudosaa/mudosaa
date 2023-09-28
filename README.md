@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/xoyeon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://xoyeon.tistory.com/page/%EC%86%8C%EA%B0%9C" target="_blank"><img src="https://img.shields.io/badge/Blog-E34F26?style=for-the-badge&logo=_&logoColor=white"/></a>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mudosaa)](https://solved.ac/mudosaa)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxoyeon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 

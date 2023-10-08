@@ -4,6 +4,12 @@
 <a href="https://www.linkedin.com/in/xoyeon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://xoyeon.tistory.com/page/%EC%86%8C%EA%B0%9C" target="_blank"><img src="https://img.shields.io/badge/Blog-E34F26?style=for-the-badge&logo=_&logoColor=white"/></a>
 
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mudosaa)](https://solved.ac/mudosaa)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<div align="center">
+<img src="https://github.com/xoyeon/xoyeon/assets/85726134/5e70a47d-0ad0-4426-adba-9f6e4a1c1768" width="300" height="300"></div> -->
+
 ## 📚 논문/학술지
 |논문제목|발표채널|게재일자|DOI|발표자료|소스코드|
 |--------|--------|--------|---|-------|--------|
@@ -21,13 +27,4 @@
     
 ## 💡 개인 프로젝트
 - 물류 유통량 예측 경진대회 [[Dacon 대회 바로가기]](https://dacon.io/competitions/official/235867/overview/description) [[EDA 결과]](https://github.com/xoyeon/portfolio/blob/5640312944a5f53796600d30b99f34820517800f/%EB%AC%BC%EB%A5%98%20%EC%9C%A0%ED%86%B5%EB%9F%89%20%EC%98%88%EC%B8%A1%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/%EB%AC%BC%EB%A5%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20EDA.pdf)
-
-
-
----
-<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mudosaa)](https://solved.ac/mudosaa)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes) -->
-
-<div align="center">
-<img src="https://github.com/xoyeon/xoyeon/assets/85726134/5e70a47d-0ad0-4426-adba-9f6e4a1c1768" width="300" height="300"></div>
 

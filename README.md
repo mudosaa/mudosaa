@@ -1,10 +1,10 @@
 # 🔬 JOHNBER IS SCIENCE
 
 <a href="mailto:biawhocodes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/xoyeon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!-- <a href="https://www.linkedin.com/in/xoyeon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://xoyeon.tistory.com/page/%EC%86%8C%EA%B0%9C" target="_blank"><img src="https://img.shields.io/badge/Blog-E34F26?style=for-the-badge&logo=_&logoColor=white"/></a>
 
-<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mudosaa)](https://solved.ac/mudosaa)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mudosaa)](https://solved.ac/mudosaa)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <div align="center">
